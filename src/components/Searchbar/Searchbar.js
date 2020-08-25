@@ -1,0 +1,25 @@
+import React from 'react';
+import { makeStyles } from '@material-ui/core/styles';
+import TextField from '@material-ui/core/TextField';
+import PhotoLibraryIcon from '@material-ui/icons/PhotoLibrary';
+import './styles.scss'
+import InputAdornment from '@material-ui/core/InputAdornment';
+import SearchRoundedIcon from '@material-ui/icons/SearchRounded';
+
+const Searchbar = () => {
+
+    return (
+        <div className='topnav'>
+            <div class="search-container">
+                <form action="/action_page.php">
+                    <input type="text" placeholder="Search here.." name="search" />
+                    <div className="search_icon">
+                        <SearchRoundedIcon />
+                    </div>
+                </form>
+            </div>
+        </div>
+    );
+}
+
+export default Searchbar

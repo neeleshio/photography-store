@@ -1,17 +1,31 @@
-#components-layout-demo-responsive .logo {
-    height: 32px;
-    background: rgba(255, 255, 255, 0.2);
-    margin: 16px;
-  }
-  
-  .site-layout-sub-header-background {
-    background: #fff;
-  }
-  
-  .site-layout-background {
-    background: #fff;
-  }
+.wrapper {
+    .sidebar {
+      position: fixed;
+      top: 65px;
+      background: #282461;
+      width: 65px;
+      height: 100vh;
+      transition: all 0.3s ease;
 
-  .ant-layout-sider-zero-width-trigger {
-    top: 0 !important;
-  }
+      ul li a {
+        display: block;
+        padding: 20px;
+        color: #fff;
+        position: relative;
+        margin-bottom: 1px;
+        color: #92a6e2;
+        white-space: nowrap;
+
+        &:hover, &.active {
+          background: #161153;
+          color: #ea4d23;
+        }
+
+        &:hover:before, &.active:before {
+          display: block;
+        }
+      }
+    }
+} 
+
+

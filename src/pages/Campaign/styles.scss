@@ -1,0 +1,16 @@
+.status_bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .utils {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+.header {
+    p {
+        margin-bottom: 10px;
+    }
+}

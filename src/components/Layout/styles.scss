@@ -1,0 +1,36 @@
+.wrapper .main_container{
+    position: relative;
+    top: 70px;
+    padding: 20px;
+    margin-left: 65px;
+    transition: all 0.3s ease;
+  }
+  
+  .wrapper .main_container .item{
+    background: #fff;
+    margin-bottom: 10px;
+    padding: 15px;
+    font-size: 14px;
+    line-height: 22px;
+  }
+  
+  .wrapper.collapse .sidebar{
+    width: 70px;
+  }
+  
+  .wrapper.collapse .sidebar ul li a{
+    text-align: center; 
+  }
+  
+  .wrapper.collapse .sidebar ul li a span.icon{
+    margin: 0;
+  }
+  
+  .wrapper.collapse .sidebar ul li a span.title{
+    display: none;
+  }
+  
+  .wrapper.collapse .main_container{
+    width: calc(100% - 70px);
+    margin-left: 70px;
+  }

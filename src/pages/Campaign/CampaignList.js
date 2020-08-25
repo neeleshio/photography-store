@@ -1,19 +1,12 @@
 import React from 'react'
-import Cards from '../../components/Cards/Cards'
 import Layout from '../../components/Layout/Layout'
-import Charts from '../../components/Charts/Charts'
 import { makeStyles } from '@material-ui/core/styles';
-import Paper from '@material-ui/core/Paper';
-import Grid from '@material-ui/core/Grid';
-import TextField from '@material-ui/core/TextField';
 import Searchbar from '../../components/Searchbar/Searchbar'
-import Dropdown from '../../components/Dropdown/Dropdown'
 import Buttons from '../../components/Buttons/Buttons'
 import Divider from '@material-ui/core/Divider';
-
-import './styles.scss'
 import Tables from '../../components/Tables/Tables';
 import DatePicker from '../../components/DatePicker/DatePicker'
+import './styles.scss'
 
 
 const useStyles = makeStyles((theme) => ({

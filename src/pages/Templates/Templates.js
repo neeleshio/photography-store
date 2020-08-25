@@ -1,15 +1,11 @@
 import React from 'react'
 import Layout from '../../components/Layout/Layout'
-import Charts from '../../components/Charts/Charts'
-import { makeStyles } from '@material-ui/core/styles';
-import Paper from '@material-ui/core/Paper';
 import Cards4 from '../../components/Cards/Cards4'
 import Divider from '@material-ui/core/Divider';
-import Dropdown from '../../components/Dropdown/Dropdown'
 import Searchbar from '../../components/Searchbar/Searchbar'
 import Buttons from '../../components/Buttons/Buttons'
 import Grid from '@material-ui/core/Grid';
-import './styles.scss'
+import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles((theme) => ({
     root: {

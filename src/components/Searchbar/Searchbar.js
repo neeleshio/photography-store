@@ -1,10 +1,6 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
-import TextField from '@material-ui/core/TextField';
-import PhotoLibraryIcon from '@material-ui/icons/PhotoLibrary';
-import './styles.scss'
-import InputAdornment from '@material-ui/core/InputAdornment';
 import SearchRoundedIcon from '@material-ui/icons/SearchRounded';
+import './styles.scss'
 
 const Searchbar = () => {
 

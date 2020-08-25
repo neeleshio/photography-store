@@ -1,6 +1,8 @@
 {
-  "name": "frontrow",
-  "version": "2.0.0",
+  "name": "prographer",
+  "version": "0.1.0",
+  "author": "Neelesh Shetty",
+  "copyright": "Neelesh AN",
   "private": true,
   "dependencies": {
     "@date-io/moment": "^1.3.13",

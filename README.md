@@ -20,7 +20,7 @@
 
 ## Installation
 
-[Git](https://git-scm.com) and [npm](http://npmjs.com) installed on your computer.
+You'll need [Git](https://git-scm.com) and [npm](http://npmjs.com) installed on your computer.
 
 ## Usage
 

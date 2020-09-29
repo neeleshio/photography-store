@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/neeleshio/Photography-Store/master/ps.png" alt="photography-store" width="600">
 </h1>
 
-<h4 align="center">Email service web app built with ReactJs & NodeJs. You can send new email, check inbox, span & other folders.</h4>
+<h4 align="center">Responsive photography stor admin-dashboard built with Reactjs.</h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/host-versal-blueviolet">
@@ -19,7 +19,7 @@
 
 ## Installation
 
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) & [npm](http://npmjs.com) installed on your computer.
+You'll need [Git](https://git-scm.com) and [npm](http://npmjs.com) installed on your computer.
 
 ## Usage
 
@@ -27,10 +27,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/neeleshio/Mail-Box.git
+$ git clone https://github.com/neeleshio/Photography-Store.git
 
 # Go into the repository
-$ cd Mail-Box
+$ cd Photography-Store
 
 # Install dependencies
 $ npm install
@@ -41,7 +41,7 @@ $ npm start
 
 ## Become a Contributor :
 
-1. Clone the repo and create a new branch: $ git checkout https://github.com/neeleshio/Mail-Box.git
+1. Clone the repo and create a new branch: $ git checkout https://github.com/neeleshio/Photography-Store.git
 
 2. Make changes and test.
 

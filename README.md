@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/neeleshio/Photography-Store/master/ps.png" alt="photography-store" width="600">
 </h1>
 
-<h4 align="center">Responsive photography stor admin-dashboard built with Reactjs.</h4>
+<h4 align="center">Responsive photography store admin-dashboard built with Reactjs.</h4>
 
 <div align="center">
   <a href="https://photography-store.vercel.app/"><img src="https://img.shields.io/badge/host-vercel-blueviolet">

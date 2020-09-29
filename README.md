@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://photography-store.vercel.app/"><img src="https://img.shields.io/badge/host-versal-blueviolet">
-  <a href="https://photography-store.vercel.app/"><img src="https://img.shields.io/badge/design-adobeXD-red">
+  <img src="https://img.shields.io/badge/design-adobeXD-red">
   <img src="https://img.shields.io/badge/contributions-welcome-orange.svg">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Photography-Store.visitor-badge">

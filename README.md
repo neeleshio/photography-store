@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/neeleshio/Mail-Box/master/vrs(1).png" alt="mail-box" width="600">
+  <img src="https://raw.githubusercontent.com/neeleshio/Photography-Store/master/ps.png" alt="photography-store" width="600">
 </h1>
 
 <h4 align="center">Email service web app built with ReactJs & NodeJs. You can send new email, check inbox, span & other folders.</h4>
